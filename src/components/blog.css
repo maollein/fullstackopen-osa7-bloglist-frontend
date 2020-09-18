@@ -1,0 +1,21 @@
+.blog {
+  border: 1px solid black;
+  padding: 7px;
+}
+
+.blog p {
+  margin: 0;
+}
+
+.delete-button {
+  color: white;
+  background-color: red;
+}
+
+.full-blog {
+  padding: 7px;
+}
+
+.full-blog p {
+  margin: 0;
+}
